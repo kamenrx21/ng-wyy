@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #f5f7fa;
+}
+#app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
